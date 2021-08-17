@@ -1,6 +1,6 @@
 // tipo string
 
-const texto1 = "Olá Mundo";
+const texto1 = "Olá Mundo"; 
 const texto2 = 'Olá Mundo';
 const senha = "senhaSuperSegura88776!#";
 const stringDeNumeros = "123443";
